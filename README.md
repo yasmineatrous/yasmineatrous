@@ -46,6 +46,4 @@
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmineatrous&show_icons=true&locale=en&layout=compact&bg_color=ffffff00&text_color=7b113a&title_color=7b113a" alt="Top Languages">
-</p>
+
