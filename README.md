@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Yasmine Atrous</h1>
-<h3 align="center">AI Engineering Student</h3>
+<h3 align="center">AI Engineer</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmine-atrous-82233a248/" target="_blank">
