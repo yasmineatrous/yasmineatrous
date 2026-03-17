@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/yasmine-atrous-82233a248/" target="_blank">
     <img src="https://img.shields.io/badge/-Connect%20with%20me-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:yasmine.atrous@esprit.tn" target="_blank">
+  <a href="mailto:yasmineatrous@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email%20me-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
