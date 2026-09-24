@@ -4,8 +4,8 @@
 ### What I do
 - **LLM agents & tooling**: multi-agent pipelines, MCP servers, tool use, evals
 - **Fine-tuning**: dataset curation, LoRA/full fine-tuning, benchmarking
-- **Computer vision**: [detection / segmentation / OCR, whatever you've done]
-- **Model serving at scale**: GPU/HPC deployment, inference optimization</h3>
+- **Computer vision**: detection / segmentation / OCR
+- **Model serving at scale**: GPU/HPC deployment, inference optimization, AWS (EC2, S3)</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmine-atrous-82233a248/" target="_blank">
