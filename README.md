@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Yasmine Atrous</h1>
+<h1 align="center">Hi there! 👋 I'm Yasmine Atrous, AI engineer.</h1>
 <h3 align="center">I build systems that take models from prototype to production.
 
 ### What I do
